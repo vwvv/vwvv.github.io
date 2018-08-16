@@ -2,6 +2,8 @@
 
 ![screenshot](assets/img/screenshot.png)
 
+<iframe data-aa='979159' src='//ad.a-ads.com/979159?size=990x90' scrolling='no' style='width:990px; height:90px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
+
 Gather, curate, and feature stories of people using GitHub as part of their open government innovations.
 
 The site is open source (here's all the code!) and is a tool _for_ and _by_ the community.
